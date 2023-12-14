@@ -1,2 +1,2 @@
-Створіть config.py в TBotRemote з "BOT_TOKEN" ключом 
+Не забудьте вказати свій ключ бота в config.py
 # Telegram-Bot
